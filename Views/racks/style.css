@@ -1,0 +1,328 @@
+.form-seguimiento {
+padding: 0;
+margin: 0;
+padding-top: 80px;
+width: 1000px;
+background-color: white;
+padding: 50px;
+margin: auto;
+margin-top: 5px;
+border-radius: 5px;
+font-family: 'calibri';
+color: "white";
+box-shadow: 17px 23px 37px #000;
+}
+
+.form-seguimiento h4{
+  font-size: 22px;
+  margin-bottom: 20px;
+  color: white;
+  margin: auto;
+  width: 50%;
+  max-width: 500px;
+
+}
+
+.caja{
+  width: 50%;
+  background: #f3e9d3;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/id_usuario.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+
+.caja2{
+  width: 50%;
+  background: #f3e9d3;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/id_Denuncia.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+.caja3{
+  width: 50%;
+  background: #f3e9d3;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/arma.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+.caja4{
+  width: 50%;
+  background: #f3e9d3;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/ubicacion.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+.caja5{
+  width: 50%;
+  background: #f3e9d3;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/atencion.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+.caja6{
+  width: 50%;
+  background: #f3e9d3;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/gravedad.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+.caja7{
+  width: 50%;
+  background: #f3e9d3;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/hospital.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+.caja8{
+  width: 50%;
+  background: #f3e9d3;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/reposo.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+.caja9{
+  width: 50%;
+  background: #f3e9d3;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/tratamiento.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+.boton{
+  width: 50%;
+  background: #e32a1f;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+}
+
+ .boton:hover{
+  background: #fabfbb;
+}
+
+
+ 
+
+
+.form-registro {
+padding: 0;
+  margin: 0;
+padding-top: 80px;
+width: 1000px;
+background-color: #51AEB7;
+padding: 50px;
+margin: auto;
+margin-top: 5px;
+border-radius: 5px;
+font-family: 'calibri';
+color: "white";
+box-shadow: 17px 23px 37px #000;
+}
+
+.form-registro h4{
+  font-size: 22px;
+  margin-bottom: 20px;
+  color: white;
+  margin: auto;
+  width: 50%;
+  max-width: 500px;
+
+}
+
+.controls{
+  width: 50%;
+  background: #e8ebf5;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/id_usuario.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+
+.controls2{
+  width: 50%;
+  background: #e8ebf5;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/fecha.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+.controls3{
+  width: 50%;
+  background: #e8ebf5;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/lugar.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+.controls4{
+  width: 50%;
+  background: #e8ebf5;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/direccion.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+.controls5{
+  width: 50%;
+  background: #e8ebf5;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/hora.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+.controls6{
+  width: 50%;
+  background: #e8ebf5;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/descripcion.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+.controls7{
+  width: 50%;
+  background: #e8ebf5;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 16px;
+  border: 2px solid #007065;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: black;
+  background-image: url('images/evidencia.png');
+  background-position: 10px 5px; 
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 40px;
+}
+
+
+.boton2{
+  width: 50%;
+  background: #007065;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+}
+
+.boton2:hover{
+  background: #42B881;
+}
+
+
+ 
